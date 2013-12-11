@@ -2,5 +2,5 @@ package test;
 
 public class Test 
 {
-	//asdqwlkenqwleknlknxclvknasldknlwqkenalskdn
+	//±è¹ÎÇü ¾Æ¿À
 }
